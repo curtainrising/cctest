@@ -1,3 +1,5 @@
 {
-  "helloWorld": "Hello World"
+  "reset": "Reset",
+  "playerOneWin": "Player 1 Wins",
+  "playerTwoWin": "Player 2 Wins"
 }
